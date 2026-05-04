@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "supermarket",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "supermarket", "contact": null, "phone": null, "vk": null, "name": "Супермаркет", "capacity": "300" }, "geometry": { "type": "Point", "coordinates": [ 30.09137336340741, 59.663573191640481 ] } },
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "supermarket", "contact": null, "phone": null, "vk": null, "name": "Супермаркет", "capacity": "200" }, "geometry": { "type": "Point", "coordinates": [ 30.10124978553349, 59.661730493146479 ] } },
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "supermarket", "contact": null, "phone": null, "vk": null, "name": "Супермаркет", "capacity": "300" }, "geometry": { "type": "Point", "coordinates": [ 30.103492657260603, 59.6632585343214 ] } },
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "supermarket", "contact": null, "phone": null, "vk": null, "name": "Супермаркет", "capacity": "600" }, "geometry": { "type": "Point", "coordinates": [ 30.106035447881453, 59.663778842794301 ] } },
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "supermarket", "contact": null, "phone": null, "vk": null, "name": "Супермаркет", "capacity": "400" }, "geometry": { "type": "Point", "coordinates": [ 30.117595365242408, 59.663568085904721 ] } },
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "supermarket", "contact": null, "phone": null, "vk": null, "name": "Супермаркет", "capacity": "600" }, "geometry": { "type": "Point", "coordinates": [ 30.119433998460565, 59.663801070982771 ] } },
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "supermarket", "contact": null, "phone": null, "vk": null, "name": "Супермаркет", "capacity": "400" }, "geometry": { "type": "Point", "coordinates": [ 30.111702936976755, 59.674663951824641 ] } },
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "supermarket", "contact": null, "phone": null, "vk": null, "name": "Супермаркет", "capacity": "300" }, "geometry": { "type": "Point", "coordinates": [ 30.10802567054046, 59.678138474458272 ] } },
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "supermarket", "contact": null, "phone": null, "vk": null, "name": "Супермаркет", "capacity": "300" }, "geometry": { "type": "Point", "coordinates": [ 30.104352185095273, 59.664319216332963 ] } },
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "supermarket", "contact": null, "phone": null, "vk": null, "name": "Супермаркет", "capacity": "500" }, "geometry": { "type": "Point", "coordinates": [ 30.104017515324649, 59.663964901030688 ] } }
+]
+}

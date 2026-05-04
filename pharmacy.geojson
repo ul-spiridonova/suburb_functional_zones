@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "pharmacy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "pharmacy", "contact": null, "phone": null, "vk": null, "name": "Аптека", "capacity": "50" }, "geometry": { "type": "Point", "coordinates": [ 30.106273427003664, 59.662932514138475 ] } },
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "pharmacy", "contact": null, "phone": null, "vk": null, "name": "Аптека", "capacity": "50" }, "geometry": { "type": "Point", "coordinates": [ 30.110211492478008, 59.663736032908339 ] } },
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "pharmacy", "contact": null, "phone": null, "vk": null, "name": "Аптека", "capacity": "50" }, "geometry": { "type": "Point", "coordinates": [ 30.103994695408822, 59.663759084392183 ] } },
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "pharmacy", "contact": null, "phone": null, "vk": null, "name": "Аптека", "capacity": "50" }, "geometry": { "type": "Point", "coordinates": [ 30.119065619819342, 59.664221757252605 ] } },
+{ "type": "Feature", "properties": { "fid": null, "id": null, "amenity": "pharmacy", "contact": null, "phone": null, "vk": null, "name": "Аптека", "capacity": "50" }, "geometry": { "type": "Point", "coordinates": [ 30.107864301135677, 59.678145057768909 ] } }
+]
+}
